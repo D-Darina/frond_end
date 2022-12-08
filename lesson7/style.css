@@ -1,0 +1,84 @@
+body{
+    margin:0;
+    /* text-align: center; */
+}
+section{
+    margin: 0;
+}
+.header-menu{
+    margin: 0;
+    margin: auto;
+    text-align: center;
+}
+
+.header-menu a{
+    margin: 0 20px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+hr{
+   width: 970px;
+}
+.home{
+   margin: 0 235px;
+}
+h1{
+    font-weight: 700;
+    font-size: 48px;
+    
+}
+.about-me{
+    box-sizing: border-box;
+    height: 500px;
+    background-color:#F6F6F6;;
+    text-align: center;
+    padding: 100px 100px ;
+    margin: 0;
+}
+.about-me p{
+    margin-bottom: 30px;
+}
+.skills{
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.product{
+    text-align: center;
+}
+.product-list{
+    margin: auto;
+    margin-right: 100px;
+    display: inline-block;
+}
+.portfolio{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color:#F6F6F6 ;
+
+}
+.portfolio p{
+    margin-top: 40px;
+    margin-bottom: 70px;
+    size: 18px;
+}
+.contacts{
+    padding-top: 100px;
+    text-align: center;
+}
+.button{
+    background-color: black;
+    color: white;
+    Width: 180px; 
+    font-size: 18px;
+    Height: 45px;
+    border-radius: 30px;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+   
+}
